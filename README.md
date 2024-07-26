@@ -21,6 +21,7 @@ If you want to contribute to this list, then please create a PR with your additi
 - [crewAI X (formerly Twitter)](https://twitter.com/crewai)
 - [João Moura (formerly Twitter)](https://x.com/joaomdmoura)
 - [LinkedIn](https://www.linkedin.com/company/crewai-inc/)
+- [Discord](https://discord.com/invite/X4JWnZnxPb)
 
 ## Tutorials
 
