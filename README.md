@@ -31,7 +31,6 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Easy Crew AI Tutorial for Beginners](https://myscale.com/blog/easy-crew-ai-tutorial-for-beginners/)
 - [CrewAI in Action: Code Examples for Building Your First Crew](https://blog.gopenai.com/crewai-in-action-code-examples-for-building-your-first-crew-fac6f531b52c)
 - [Building an Agentic Workflow with CrewAI and Groq](https://www.analyticsvidhya.com/blog/2024/06/agentic-workflow-with-crewai-and-groq/)
-- 
 
 ## Videos
 
