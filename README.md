@@ -45,6 +45,7 @@ If you want to contribute to this list, then please create a PR with your additi
 ## Tools
 
 - [crewAI tools](https://github.com/crewAIInc/crewAI-tools)
+- [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies
 - [LlamaHub tools](https://llamahub.ai/)
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
