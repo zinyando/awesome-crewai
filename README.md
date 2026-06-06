@@ -50,3 +50,4 @@ If you want to contribute to this list, then please create a PR with your additi
 - [LlamaHub tools](https://llamahub.ai/)
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and x402 payment verification MCP server for CrewAI agents on Solana. Provides `resolve_agent`, `preflight_check`, and `get_trust_receipt` tools via streamable-http MCP.
