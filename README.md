@@ -45,6 +45,7 @@ If you want to contribute to this list, then please create a PR with your additi
 ## Tools
 
 - [crewAI tools](https://github.com/crewAIInc/crewAI-tools)
+- [agentreader-crewai](https://github.com/grokbot1233/agentreader/tree/main/integrations/agentreader-crewai) - CrewAI tools for Axiom Works AgentReader: pay-per-call web/UK-US-EU DD/EVM tools in USDC on Base via x402 (`pip install agentreader-crewai`)
 - [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies
 - [crewai-tools-enigmagent](https://github.com/Agnuxo1/crewai-tools-enigmagent) - Local AES-256-GCM + Argon2id encrypted secret vault as a CrewAI tool. Resolves `{{PLACEHOLDER}}` tokens transparently inside agent runs so API keys never enter the LLM context. Zero cloud, MIT
 - [LlamaHub tools](https://llamahub.ai/)
