@@ -42,6 +42,10 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Building Multi-Agent LLM Systems with CrewAI: A Step-by-Step Guide](https://www.youtube.com/watch?v=4s2LbwNa8tE)
 - [Build Amazing Multi Agent Crews and Monitor them - Latest CrewAI and LangWatch Integration](https://www.youtube.com/watch?v=8WK6j2ApjZs)
 
+## Projects
+
+- [ProspectAI](https://github.com/moisesprat/ProspectAI) - A 6-agent CrewAI pipeline for sector portfolio research: market, technical, and fundamental analysts feed a draft strategist, then an adversarial critic stress-tests the thesis before a final strategist produces a revised report. Numeric calculations stay in deterministic tools (LLMs reason, tools compute) with Pydantic-typed contracts between agents. Live SSE-streamed demo at [prospect-ai.moisesprat.dev](https://prospect-ai.moisesprat.dev). MIT.
+  
 ## Tools
 
 - [crewAI tools](https://github.com/crewAIInc/crewAI-tools)
