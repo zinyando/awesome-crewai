@@ -52,3 +52,4 @@ If you want to contribute to this list, then please create a PR with your additi
 - [LlamaHub tools](https://llamahub.ai/)
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
+- [Datacircle](https://datacircle.dev) - Find the best GTM APIs. A free, open API with no key to list every GTM API, see who is best for each and search every plan: [api.datacircle.dev/v1](https://api.datacircle.dev/v1)
