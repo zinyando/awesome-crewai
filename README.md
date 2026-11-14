@@ -49,6 +49,7 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Asqav](https://github.com/jagmarques/asqav-sdk) - Open-source SDK for AI agent governance with tamper-evident audit trails, tool scanning, and enforcement policies
 - [crewai-tools-enigmagent](https://github.com/Agnuxo1/crewai-tools-enigmagent) - Local AES-256-GCM + Argon2id encrypted secret vault as a CrewAI tool. Resolves `{{PLACEHOLDER}}` tokens transparently inside agent runs so API keys never enter the LLM context. Zero cloud, MIT
 - [Vulnify CrewAI example](https://github.com/vulnify/vulnify-examples/tree/main/crewai) - Wraps CrewAI tools with `guard_crewai_tool` so each call is checked before `_run` executes: ALLOW runs it, REVIEW holds it for a person in the Vulnify app or Slack, BLOCK stops it and returns the reasons to the agent. Has a mock mode that runs without an API key.
+- [PADAM NOCTURNE](https://github.com/MaksimGalatin/padam-nocturne/blob/main/integrations/crewai_check.py) - Local agent memory in one SQLite file (MCP server) used from CrewAI through `MCPServerAdapter`; API keys and passwords are masked before storage and injected orders in notes are held for the owner. The linked check runs with no LLM.
 - [LlamaHub tools](https://llamahub.ai/)
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
