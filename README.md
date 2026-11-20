@@ -42,6 +42,10 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Building Multi-Agent LLM Systems with CrewAI: A Step-by-Step Guide](https://www.youtube.com/watch?v=4s2LbwNa8tE)
 - [Build Amazing Multi Agent Crews and Monitor them - Latest CrewAI and LangWatch Integration](https://www.youtube.com/watch?v=8WK6j2ApjZs)
 
+## Projects
+
+- [ProspectAI](https://github.com/moisesprat/ProspectAI) - A 6-agent CrewAI pipeline for sector portfolio research: market, technical, and fundamental analysts feed a draft strategist, then an adversarial critic stress-tests the thesis before a final strategist produces a revised report. Numeric calculations stay in deterministic tools (LLMs reason, tools compute) with Pydantic-typed contracts between agents. Live SSE-streamed demo at [prospect-ai.moisesprat.dev](https://prospect-ai.moisesprat.dev). MIT.
+  
 ## Memory
 
 - [Loom CrewAI adapter](https://github.com/ClickHouse/loom/blob/v1.3.0-rc.1/docs/features/integrations/frameworks.md#crewai) - `LoomCrewMemory` implements CrewAI's `Memory` interface using an operator-managed Loom deployment.
@@ -60,3 +64,4 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. A free, open API with no key to list every GTM API, see who is best for each and search every plan: [api.datacircle.dev/v1](https://api.datacircle.dev/v1)
+
