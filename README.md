@@ -42,6 +42,10 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Building Multi-Agent LLM Systems with CrewAI: A Step-by-Step Guide](https://www.youtube.com/watch?v=4s2LbwNa8tE)
 - [Build Amazing Multi Agent Crews and Monitor them - Latest CrewAI and LangWatch Integration](https://www.youtube.com/watch?v=8WK6j2ApjZs)
 
+## Memory
+
+- [Loom CrewAI adapter](https://github.com/ClickHouse/loom/blob/v1.3.0-rc.1/docs/features/integrations/frameworks.md#crewai) - `LoomCrewMemory` implements CrewAI's `Memory` interface using an operator-managed Loom deployment.
+
 ## Tools
 
 - [crewAI tools](https://github.com/crewAIInc/crewAI-tools)
@@ -50,6 +54,7 @@ If you want to contribute to this list, then please create a PR with your additi
 - [crewai-tools-enigmagent](https://github.com/Agnuxo1/crewai-tools-enigmagent) - Local AES-256-GCM + Argon2id encrypted secret vault as a CrewAI tool. Resolves `{{PLACEHOLDER}}` tokens transparently inside agent runs so API keys never enter the LLM context. Zero cloud, MIT
 - [Vulnify CrewAI example](https://github.com/vulnify/vulnify-examples/tree/main/crewai) - Wraps CrewAI tools with `guard_crewai_tool` so each call is checked before `_run` executes: ALLOW runs it, REVIEW holds it for a person in the Vulnify app or Slack, BLOCK stops it and returns the reasons to the agent. Has a mock mode that runs without an API key.
 - [PADAM NOCTURNE](https://github.com/MaksimGalatin/padam-nocturne/blob/main/integrations/crewai_check.py) - Local agent memory in one SQLite file (MCP server) used from CrewAI through `MCPServerAdapter`; API keys and passwords are masked before storage and injected orders in notes are held for the owner. The linked check runs with no LLM.
+- [pay-safely](https://github.com/screwtapeai/pay-safely) - `SellerCheckTool` for CrewAI agents that buy things: before paying a seller, it asks Screwtape.ai whether the seller is safe to pay and returns allow, review or block with reasons and a signed receipt (`pip install "screwtape-pay-safely[crewai]"`)
 - [LlamaHub tools](https://llamahub.ai/)
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
