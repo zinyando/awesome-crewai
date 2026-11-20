@@ -42,6 +42,10 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Building Multi-Agent LLM Systems with CrewAI: A Step-by-Step Guide](https://www.youtube.com/watch?v=4s2LbwNa8tE)
 - [Build Amazing Multi Agent Crews and Monitor them - Latest CrewAI and LangWatch Integration](https://www.youtube.com/watch?v=8WK6j2ApjZs)
 
+## Memory
+
+- [Loom CrewAI adapter](https://github.com/ClickHouse/loom/blob/v1.3.0-rc.1/docs/features/integrations/frameworks.md#crewai) - `LoomCrewMemory` implements CrewAI's `Memory` interface using an operator-managed Loom deployment.
+
 ## Tools
 
 - [crewAI tools](https://github.com/crewAIInc/crewAI-tools)
