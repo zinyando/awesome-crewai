@@ -65,4 +65,5 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Langchain tools](https://github.com/langchain-ai/langchain/tree/master/libs/community/langchain_community/tools)
 - [Composio tools](https://composio.dev/tools)
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. A free, open API with no key to list every GTM API, see who is best for each and search every plan: [api.datacircle.dev/v1](https://api.datacircle.dev/v1)
+- [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
