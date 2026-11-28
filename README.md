@@ -66,4 +66,5 @@ If you want to contribute to this list, then please create a PR with your additi
 - [Composio tools](https://composio.dev/tools)
 - [Datacircle](https://datacircle.dev) - Find the best GTM APIs. A free, open API with no key to list every GTM API, see who is best for each and search every plan: [api.datacircle.dev/v1](https://api.datacircle.dev/v1)
 - [Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp) - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
+- [B2B AI & Market Intel Cookbook](https://github.com/truonggiang0111/b2b-ai-mcp-skills) - Open-source CrewAI, LangChain, OpenAI, and Claude MCP Python agent cookbooks (`examples/python-agents/`), 15 `SKILL.md` playbooks, 16 n8n workflows, and 8 Make.com blueprints covering zero-key public APIs (Google News real-URL decoding, UK Gov Tenders, ClinicalTrials.gov, WordPress.org) plus optional `APIFY_TOKEN` cloud churn, hiring, and ad-intelligence pipelines.
 
